@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Luiz-della-rosa
-- 👀 I’m interested in . buscando   um emprego na áreas de desenvolviento
-- 🌱 I’m currently learning :Desenvolvimento  de  sites web,  Linguagens  de Programação: HTML - Nível Avançado, CSS; JAVA SCRIPT, C#, BootStrap, Git / GitHub, Banco de Dados, Orientação a Objeto, Desenvolvimento -Ágil – Scrum, ASP.NET, JQuery, Sass Placeholders, Vue.js, My SQL, Node,js
-- 💞️ I’m looking to collaborate on : Desenvolvedor  Front End./Back End 
-- 📫 How to reach me :ldellarosa@hotmail.com
+👋 Olá! Eu sou Luiz Della Rosa.
 
-<!---
-Luiz-della-rosa/Luiz-della-rosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Desenvolvedor de software apaixonado por criar soluções inovadoras e elegantes para problemas complexos.
+
+💻 Atualmente, estou trabalhando em Desenvolvedor front - end| Angular| Full-Stark| Git | Java-Script|My-SQL|Python| Analista de Sistemas. Sempre aberto a colaborações e novos desafios!
+
+🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em Desenvolvedor Front end, Angular, Full-Stark, Git , Java-Script,My-SQL,Python.
+
+🔧 Minhas ferramentas favoritas incluem Python e Front End.
+
+📫 Você pode me encontrar em https://www.linkedin.com/in/luiz-enrico-panoff-della-rosa-15980711b/.
+
+⚡️ Fun fact:  Sempre me aperfeiçoando e fazendo um novo projeto.
+
